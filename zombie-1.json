@@ -1,6 +1,6 @@
 {
     "name": "ZOMBIE",
     "description": "My First Zombie",
-    "image": "",
+    "image": "https://github.com/weixuefeng/tokeuri/blob/main/zombie.png",
     "strength": 20
 }
